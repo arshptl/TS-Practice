@@ -75,6 +75,12 @@ let m: MapOfUsers = {
 }
 
 
+// type aliases
+type a = string | number;
+
+// can be assign string or a number
+let b: a = "harsh";
+
 
 
 

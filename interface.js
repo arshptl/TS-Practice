@@ -33,3 +33,5 @@ let m = {
         role: "manager",
     }
 };
+// can be assign string or a number
+let b = "harsh";
