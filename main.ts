@@ -1,7 +1,6 @@
 
 // string variable
 let foo: string = "Amit";
-
 // two different ways to define array
 let arraylist: string[] = ["amit", "harsh", "jay", "utsav", "smit"];
 let arrayNewList: Array<string> = ["amit", "harsh", "jay", "utsav", "smit"];
